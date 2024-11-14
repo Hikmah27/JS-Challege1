@@ -34,14 +34,14 @@ let first_name = "Hikmah";
 let last_name = "Olanipekun";
 let marital_status = "Married";
 let country = "Nigeria";
-let age = 27;
+let ages = 27;
 
 // Declare variables to store your first name, last name, marital status, country and age in a multiple line
 console.log(first_name);
 console.log(last_name);
 console.log(marital_status);
 console.log(country);
-console.log(age);
+console.log(ages);
 
 // Declare variables to store your first name, last name, marital status, country and age in a single line
 console.log(first_name, last_name, marital_status, country, age);
